@@ -24,9 +24,9 @@
      }
    ];
    
-   time.timeZone = "Europe/London";
-   i18n.defaultLocale = "en_US.UTF-8";
-   console.keyMap = "us";
+   time.timeZone = "Europe/Brussels";
+   i18n.defaultLocale = "nl_BE.UTF-8";
+   console.keyMap = "be";
    
    boot.loader.grub.enable = true;
    boot.loader.grub.device = "/dev/sda";
